@@ -3,9 +3,6 @@ import java.util.List;
 
 public class MainApp {
 
-    /*
-     * Video Reference: https://youtu.be/QCWJWfuAfJc
-     */
     public static void main(String[] args) {
 
         Vertex<Integer> v0 = new Vertex<>(0);
